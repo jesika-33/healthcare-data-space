@@ -17,3 +17,9 @@ This project extends the **Minimum Viable Dataspace (MVD)** by implementing a re
 - **Extension of MVD** – Builds on the MVD reference implementation, adding assets, policies (e.g., `Access = "research purpose"`), and some new connector.
 - **Secure Data Transfer** – Datasets are never exposed via public APIs; all transfers follow usage control policies defined by each provider.
 - **Standalone Demo** – Run entirely on Docker.
+
+## Notes
+Some project files could not be uploaded directly to GitHub due to file size and upload limitations.  
+
+The complete project ZIP folder is therefore provided through a OneDrive link below:
+[Download Data Space Project](https://cuhko365-my.sharepoint.com/:u:/g/personal/123040021_link_cuhk_edu_cn/IQBQhGLTrC0wT4YLvIOJXpXoAWDfHAzpkb7rLC7qpQXTDLI?e=4MBXZ8)
